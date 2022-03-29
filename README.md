@@ -1,2 +1,4 @@
 # git_learn
-this is the second commit
+
+this is the first commit, resolve conflict.
+
